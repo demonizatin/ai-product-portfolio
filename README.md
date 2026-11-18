@@ -6,7 +6,7 @@ I build the AI features I propose: the prompts, the pipeline around them, and th
 
 | Project | What it is | The interesting part |
 |---|---|---|
-| [Tutor memory](case-studies/01-tutor-memory.md) | An AI tutor that remembers a learner across sessions | The model never decides what is true. Code does. |
+| [Tutor memory](case-studies/01-tutor-memory.md) | An AI tutor that remembers a learner across sessions | The model never decides what is true. Code does. **[Live demo](https://demonizatin.github.io/agent-memory-kit/)** · [code](https://github.com/demonizatin/agent-memory-kit) |
 | [Personalisation engine](case-studies/02-personalisation-engine.md) | Decides what to notify, when, and what to teach next | Driven by what the learner said and the mistakes they make |
 | [Simulated learners](case-studies/03-simulated-learners.md) | AI-played personas that stress-test the tutor | Caught a failure where an invented detail became a saved "fact" |
 | [Post-call feedback](case-studies/04-post-call-feedback.md) | Line-by-line feedback after a speaking call | One big prompt replaced by a chain of small checks |

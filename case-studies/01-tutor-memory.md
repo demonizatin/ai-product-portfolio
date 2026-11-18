@@ -26,3 +26,5 @@ flowchart LR
 - The tutor repeated the same follow-up. Fixed with a simple flag in code, not a prompt instruction.
 
 **Where it stands.** Covered by 100+ unit tests and an eval suite that checks hard rules (never invent a fact) and scores the quality of opening lines.
+
+**Try it.** A generic, open version of this design, set in customer support: [live demo](https://demonizatin.github.io/agent-memory-kit/) and [code with tests](https://github.com/demonizatin/agent-memory-kit).
