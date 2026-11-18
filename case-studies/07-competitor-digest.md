@@ -1,6 +1,6 @@
 # Competitor digest
 
-**Problem.** Competitor teardowns go stale. I had gone through the learning flows of Duolingo, SpeakX, Stimuler and Supernova screen by screen, but each app ships changes every few weeks and a teardown is a snapshot.
+**Problem.** Competitor teardowns go stale. I had gone through the learning flows of the leading language apps screen by screen, but each app ships changes every few weeks and a teardown is a snapshot.
 
 **What I built.** An automated digest that gathers what competitors are shipping from multiple sources and brings it into one dashboard, on a daily, weekly or monthly rhythm.
 

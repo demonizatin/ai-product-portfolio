@@ -1,6 +1,6 @@
 # Tutor memory
 
-**Problem.** Miss Maya is PeerUp's AI tutor. Every call started from zero. A learner would mention an interview on Friday, and on Saturday Maya had no idea. It felt like talking to a stranger each time.
+**Problem.** The app's AI tutor started every call from zero. A learner would mention an interview on Friday, and on Saturday the tutor had no idea. It felt like talking to a stranger each time.
 
 **What I built.** A memory system that carries a learner across sessions, and a working chatbot to test it.
 
@@ -23,6 +23,6 @@ flowchart LR
 **What went wrong.**
 - The small model got calendar maths wrong ("next Friday" landed on the wrong date) even with a calendar in the prompt. Dates are now worked out in code from the learner's exact words.
 - The model renamed things. A "result announcement" came back as an "interview". The follow-up prompt now has to keep the learner's meaning exactly.
-- Maya repeated the same follow-up. Fixed with a simple flag in code, not a prompt instruction.
+- The tutor repeated the same follow-up. Fixed with a simple flag in code, not a prompt instruction.
 
 **Where it stands.** Covered by 100+ unit tests and an eval suite that checks hard rules (never invent a fact) and scores the quality of opening lines.

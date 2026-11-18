@@ -1,6 +1,6 @@
 # One-click LiveOps
 
-**Problem.** PeerUp runs a fresh debate topic every day. Each one needed a topic, a write-up, an image, a quality check and a publish step, passed between content, design and engineering.
+**Problem.** The app runs a fresh debate topic every day. Each one needed a topic, a write-up, an image, a quality check and a publish step, passed between content, design and engineering.
 
 **What I built.** A desktop tool where the whole chain, from idea to creation, testing, evaluation and going live, runs from one click.
 

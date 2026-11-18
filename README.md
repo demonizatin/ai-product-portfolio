@@ -1,8 +1,8 @@
 # AI product work
 
-I'm Priyansh, a product manager in Bengaluru. I'm currently the only PM at PeerUp, an AI spoken-English app with close to 5M users, most of them first-time learners from Tier 2 and 3 cities in India.
+I'm Priyansh, a product manager in Bengaluru. I work on a consumer AI language-learning app with millions of users, most of them first-time learners from smaller cities in India.
 
-I build the AI features I propose: the prompts, the pipeline around them, and the tests that tell me whether they work. This repo is a set of short write-ups of that work. The code belongs to my employer, so what you get here is the design: what the problem was, how the AI is used, what broke, and what I changed.
+I build the AI features I propose: the prompts, the pipeline around them, and the tests that tell me whether they work. This repo is a set of short write-ups of that work. Each one covers the design: what the problem was, how the AI is used, what broke, and what I changed.
 
 | Project | What it is | The interesting part |
 |---|---|---|
