@@ -12,3 +12,5 @@
 - The real problems were in the output format: fields returned in the wrong shape, positions in the text that were made up, and a few responses wrapped in a way the app could not read. Those are prompt and parsing fixes, not model problems.
 
 **What I took from it.** "Try a better model" is the most tempting fix and often the wrong one. A couple of hundred labelled cases was enough to know.
+
+**Try it.** A generic, open version of this approach, on invented sample data: [live demo](https://demonizatin.github.io/llm-eval-kit/) and [code with tests](https://github.com/demonizatin/llm-eval-kit).

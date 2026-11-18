@@ -10,7 +10,7 @@ I build the AI features I propose: the prompts, the pipeline around them, and th
 | [Personalisation engine](case-studies/02-personalisation-engine.md) | Decides what to notify, when, and what to teach next | Driven by what the learner said and the mistakes they make |
 | [Simulated learners](case-studies/03-simulated-learners.md) | AI-played personas that stress-test the tutor | Caught a failure where an invented detail became a saved "fact" |
 | [Post-call feedback](case-studies/04-post-call-feedback.md) | Line-by-line feedback after a speaking call | One big prompt replaced by a chain of small checks |
-| [Evals before changes](case-studies/05-evals.md) | Hand-labelling tool and model benchmark | The result was "don't switch models" |
+| [Evals before changes](case-studies/05-evals.md) | Hand-labelling tool and model benchmark | The result was "don't switch models". **[Live demo](https://demonizatin.github.io/llm-eval-kit/)** · [code](https://github.com/demonizatin/llm-eval-kit) |
 | [Speech lessons](case-studies/06-speech-lessons.md) | Speaking lessons for Indian accents | Learners were losing their first words. Fixed in the mic, not the model. |
 | [Competitor digest](case-studies/07-competitor-digest.md) | Automated digest of what competitors ship | Many sources, one dashboard |
 | [One-click LiveOps](case-studies/08-one-click-liveops.md) | Daily content from idea to live in one click | AI tools handing work to each other, no API integration |
